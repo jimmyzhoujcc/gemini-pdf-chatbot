@@ -6,7 +6,7 @@ Gemini PDF ChatBot is a PDF ChatBot tool
  
 ## How to use it
 - pip install -r requirements
-- Use your Gemini API-KEY to replace API KEY in the credentials.ini file
+- Use your Gemini API-KEY to replace API KEY in the .env file
 - python main.py
 
  
